@@ -33,3 +33,6 @@ Offer retention discounts for high-risk users
 Files Included:
 Power BI Dashboard (.pbix)
 Project Report (PDF)
+Screenshots of Dashboard
+Dataset
+
